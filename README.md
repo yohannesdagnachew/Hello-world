@@ -4,47 +4,18 @@
 
 Hello World
 
-> Description the project.
-> This project is the first project on git and githab
+> This project says Hello world. Set up a "Hello Microverse" project
 
 ## Built With
 
-- Major languages Html and CSS
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+- Major languages Html a
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@yohannesdagnachew]
-- Twitter: [@twitterhandle]
-- LinkedIn: linkedin.com/in/yohannes-dagnachew-5b163a236
-
-👤 **Author2**
+- GitHub: [@yohannesdagnachew](https://github.com/yohannesdagnachew)
+- LinkedIn: [LinkedIn](linkedin.com/in/yohannes-dagnachew-5b163a236)
 
 ## 🤝 Contributing
 
@@ -58,10 +29,10 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
+- Microverse team
+- My Family
 - etc
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+None
