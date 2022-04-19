@@ -5,7 +5,7 @@
 Hello World
 
 > Description the project.
-> This project My is the first project on git and github
+> This project is the first project on git and githab
 
 ## Built With
 
@@ -40,9 +40,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [https://github.com/yohannesdagnachew]
-- Twitter: [https://twitter.com/yohannes-dagnachew-5b163a236]
-- LinkedIn: [linkedin.com/in/yohannes-dagnachew-5b163a236]
+- GitHub: [@yohannesdagnachew]
+- Twitter: [@twitterhandle]
+- LinkedIn: linkedin.com/in/yohannes-dagnachew-5b163a236
 
 👤 **Author2**
 
