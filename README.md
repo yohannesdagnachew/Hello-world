@@ -40,9 +40,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@yohannesdagnachew](https://github.com/yohannesdagnachew)
-- Twitter: [@yohannes_d](https://twitter.com/yohannes-dagnachew-5b163a236)
-- LinkedIn: [LinkedIn](linkedin.com/in/yohannes-dagnachew-5b163a236)
+- GitHub: [https://github.com/yohannesdagnachew]
+- Twitter: [https://twitter.com/yohannes-dagnachew-5b163a236]
+- LinkedIn: [linkedin.com/in/yohannes-dagnachew-5b163a236]
 
 👤 **Author2**
 
